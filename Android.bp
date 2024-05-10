@@ -93,6 +93,8 @@ cc_library_static {
         "//apex_available:platform",
         "com.android.extservices",
         "com.android.neuralnetworks",
+        "com.android.adservices",
+        "com.android.ondevicepersonalization",
     ],
     min_sdk_version: "30",
 }
